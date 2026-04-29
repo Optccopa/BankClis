@@ -26,7 +26,7 @@ public class Main {
                     balance -= amount;
                     System.out.println("Withdrew: $" + amount);
                     break;
-                }
+                } 
                 case "3": {
                     System.out.println("Balance: $" + balance);
                     break;
